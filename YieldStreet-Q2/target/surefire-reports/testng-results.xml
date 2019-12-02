@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="openweatherapi" duration-ms="8004" started-at="2019-12-02T01:03:27Z" finished-at="2019-12-02T01:03:35Z">
+    <groups>
+    </groups>
+    <test name="ConsistencyTest" duration-ms="8004" started-at="2019-12-02T01:03:27Z" finished-at="2019-12-02T01:03:35Z">
+      <class name="openweatherapi.OpenWeather">
+        <test-method status="PASS" signature="test()[pri:0, instance:openweatherapi.OpenWeather@7c75222b]" name="test" duration-ms="7965" started-at="2019-12-02T01:03:27Z" finished-at="2019-12-02T01:03:35Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
